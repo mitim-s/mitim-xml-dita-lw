@@ -16,7 +16,8 @@ The repository includes the following schemas:
 - `lw-map_schema.js`: Schema for DITA Lightweight maps.
 - `lw-topic_schema.js`: Schema for DITA Lightweight topics.
 
-The schema contains additional XML information in `editor__________node_______schema___` keyword.
+> **Note**:  
+> The schema contains additional XML information in the `editor__________node_______schema___` keyword, which includes information about default attribute values, sequence information for the child elements, etc. You can either define a custom behavior for the keyword or simply ignore it, as demonstrated in the example.
 
 ## Usage
 
