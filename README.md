@@ -66,4 +66,4 @@ For more information about DITA Lightweight, visit the [official DITA website](h
 
 ## Contact
 
-You can reach me at: [info@mitim-s.com](mailto:info@mitim-s.com)
+You can reach us at: [info@mitim-s.com](mailto:info@mitim-s.com)
