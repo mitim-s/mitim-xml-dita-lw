@@ -5,7 +5,6 @@ This repository contains the JSON Schema Draft 2020-12 for DITA Lightweight (DIT
 ## Features
 
 - **Validation**: Provides JSON schemas for validating DITA Lightweight topics, maps, and domains.
-- **Extensibility**: Supports customization and extension for specific use cases.
 - **Standards Compliance**: Adheres to the DITA Lightweight specification.
 
 ## Structure
