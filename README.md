@@ -63,3 +63,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 The JSON schemas were generated using the MITIM XML Editor (version 1.3.111) and are maintained by MITIM Professional Services DOO. These schemas are based on the JSON Schema 2020-12 release. For more information, visit [mitim-s.com](https://www.mitim-s.com).
 
 For more information about DITA Lightweight, visit the [official DITA website](https://www.oasis-open.org/committees/dita/).
+
+## Contact
+
+You can reach me at: [info@mitim-s.com](mailto:info@mitim-s.com)
